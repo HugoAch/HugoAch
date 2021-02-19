@@ -2,7 +2,13 @@
 
 You are in the Hugo Ach github account.
 
-Work in progress...
+I'm currently working at the ISG-UAH group, but here there are personal projects also.
+
+Lifelong learner.
+
+Feel free to contact me at @Hugo_Ach on Twitter.
+
+*Work in progress...*
 
 <!--
 **HugoAch/HugoAch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
