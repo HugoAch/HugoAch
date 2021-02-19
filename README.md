@@ -2,7 +2,7 @@
 
 You are in the Hugo Ach github account.
 
-I'm currently working at the ISG-UAH group, but here there are personal projects also.
+I'm currently working at the ISG-UAH group, but there are personal projects too.
 
 Lifelong learner.
 
