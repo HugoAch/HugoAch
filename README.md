@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You are in the Hugo Ach github account.
+Hugo Ach github account.
 
 I'm currently working at the ISG-UAH group, but there are personal projects too.
 
