@@ -6,7 +6,7 @@ I'm currently working at the ISG-UAH group, but there are personal projects too.
 
 Lifelong learner.
 
-Feel free to contact me at @Hugo_Ach on Twitter.
+Feel free to contact me on Twitter: @Hugo_Ach
 
 *Work in progress...*
 
