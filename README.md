@@ -4,6 +4,8 @@ Hugo Ach github account.
 
 I'm currently working at the ISG-UAH group, but there are personal projects too.
 
+ISG-UAH work is focused on time series forecasting in Emergency Services. We try to help managers in the resources planning task.
+
 Lifelong learner.
 
 Feel free to contact me on Twitter: @Hugo_Ach
