@@ -10,7 +10,7 @@ I'm interested in Deep Learning field, from Generative Learning to Supervised/Un
 
 Lifelong learner.
 
-Feel free to contact me on Twitter: @Hugo_Ach
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hugoalvarezchaves/)
 
 *Work in progress...*
 
