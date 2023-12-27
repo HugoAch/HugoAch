@@ -6,7 +6,7 @@ I'm currently working at Universidad de Alcalá (UAH), but there are personal pr
 
 Professional work is focused on time series forecasting in Emergency Services, and time series generation. We try to help managers in the resources planning task.
 
-I'm interested in Deep Learning field, from Generative Learning to Supervised/Unsupervised/Reinforced Learning.
+I'm interested in Deep Learning field, from Generative Learning to Supervised/Unsupervised/Reinforcement Learning.
 
 Lifelong learner.
 
